@@ -1,0 +1,35 @@
+h2{
+    color: #50CB93;
+    font-weight: bold !important;
+    margin-bottom: 20px;
+    margin-top: 20px !important;
+}
+.b-card{
+    border: 1px solid rgb(156, 154, 154);
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px ;
+}
+.b-card .s-card{
+    width: 70%;
+    /* height: 151px; */
+    border: 1px solid #50CB93;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin: auto;
+}
+.b-card .s-card img{
+    height: 150px;
+    width: 100%;
+    border-radius: 10px;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+.b-card .clear{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px !important;
+}
+.b-card .clear .btn{
+    color: white;
+}

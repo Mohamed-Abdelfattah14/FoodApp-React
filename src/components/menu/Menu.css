@@ -1,0 +1,19 @@
+.card{
+    height: 330px;
+    margin-top: 15px;
+}
+.card img{
+    height: 250px;
+}
+.card .g-icon{
+    display: flex;
+    justify-content: space-between;
+}
+.card .g-icon h4{
+    color: #50CB93;
+    font-size: 25px;
+    cursor: pointer;
+}
+.g-icon p{
+    margin-top: 5px;
+}

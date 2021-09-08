@@ -1,0 +1,21 @@
+.bar{
+    background-color: #50CB93;
+}
+.logo{
+    color: white;
+}
+.logo span{
+    color: #54436B;
+    font-size: 35px;
+    font-weight: bold;
+}
+.a{
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+.a:hover{
+    color: white;
+}

@@ -1,0 +1,84 @@
+.head .imge{
+    height: 350px;
+    width: 100%;
+    /* border-radius: 50%; */
+}
+.head .head-h{
+    font-size: 40px;
+    font-weight: bold;
+    color: #50CB93;
+}
+.head .head-p{
+    font-size: 20px;
+}
+
+/* start service */
+.service{
+    margin-top: 100px;
+}
+.service .ser-h{
+    color: #50CB93;
+    font-size: 30px;
+    font-weight: bold;
+}
+.service .ser-h span{
+    font-size: 35px;
+    color: #54436B;
+}
+.service .card{
+    padding: 20px;
+    border: none;
+}
+.service .card .icon{
+    font-size: 80px;
+    color: #50CB93;
+}
+.service .ser-head{
+    font-weight: bold;
+    color: #54436B;
+}
+
+
+/*  */
+
+.adv{
+    background-color: #50CB93;
+    color: white;
+    padding: 10px;
+}
+.adv h1{
+    font-size: 60px;
+}
+
+/*  */
+.fav{
+    margin-top: 100px;
+}
+.fav-h{
+    color: #50CB93;
+    font-size: 30px;
+    font-weight: bold;
+}
+.fav-h span{
+    color: #54436B;
+    font-size: 35px;
+}
+.fav .card{
+    height: 350px;
+    border: 1px solid #50CB93;
+}
+.fav .card img{
+    height: 220px;
+}
+.fav .card .card-title{
+    font-weight: bold;
+    color: #54436B;
+}
+.fav .btn{
+    border: 1px solid #50CB93;
+    font-weight: bold;
+    color: #54436B;
+}
+.fav .btn:hover{
+    color: #54436B;
+}
