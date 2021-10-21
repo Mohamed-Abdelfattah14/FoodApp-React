@@ -19,3 +19,11 @@
 .a:hover{
     color: white;
 }
+.navbar-toggler{
+    color: #50CB93 !important;
+    background-color: #54436B !important;
+    padding: 5px !important;
+}
+.bar .navbar-toggler-icon{
+    background-color: #50CB93;
+}

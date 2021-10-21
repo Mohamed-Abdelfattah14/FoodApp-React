@@ -97,7 +97,7 @@ function Home() {
                             </div>
 
                             <div className="col-12 col-md-6 col-lg-3">
-                                <div class="card">
+                                <div className="card">
                                     <img src="/images/pizza.jpg" className="card-img-top" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">Pizza</h5>

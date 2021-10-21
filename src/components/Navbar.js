@@ -1,6 +1,8 @@
 import React from 'react'
 import "./Navbar.css"
 import { NavLink } from 'react-router-dom'
+import {FaAlignJustify} from 'react-icons/fa';
+
 
 function Navbar() {
     return (
@@ -9,7 +11,8 @@ function Navbar() {
                 <div className="container container-fluid">
                     <h3 className="logo"><span>Re</span>sto</h3>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span className="navbar-toggler-icon"></span>
+                        {/* <span className="navbar-toggler-icon"></span> */}
+                        <span><FaAlignJustify /></span>
                     </button>
 
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
